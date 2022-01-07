@@ -8,11 +8,11 @@ Solves problem of Windows 11 that some icons are not shown at the taskbar after 
 
 ## Install packages
 ```
-pipenv install
+pip install -r requirements.txt
 ```
 ## Run program
 ```
-pipenv run python main.py
+python main.py
 ```
 ## Create exe
 ```
